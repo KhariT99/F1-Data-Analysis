@@ -16,12 +16,14 @@ Initially, I examined the dataset for missing values and inconsistencies in data
 
 ## Data Analysis 
 I conducted a thorough analysis of the data to uncover insights and address several key questions pertaining to Formula 1 racing. My approach incorporated correlation analysis and data visualisation, utilising the Matplotlib library.
+
 In this study, I explored the following questions:
 
-1 - How are driver nationalities distributed within this dataset?
-2 - To what extent does the number of seasons a driver competes correlate with their race win tally?
-3 - For drivers who have achieved champion status, what is the relationship between their podium finishes and pole positions?
-4 - What factors contribute significantly to a driver becoming a champion?
+  1 - How are driver nationalities distributed within this dataset?
+  2 - To what extent does the number of seasons a driver competes correlate with their race win tally?
+  3 - For drivers who have achieved champion status, what is the relationship between their podium finishes and 
+      pole positions?
+  4 - What factors contribute significantly to a driver becoming a champion?
 
 My analysis employed various statistical techniques and graphical representations to elucidate patterns and relationships within the data, providing a comprehensive view of Formula 1 driver performance and success factors.
 

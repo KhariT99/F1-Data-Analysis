@@ -113,6 +113,12 @@ Align race strategies with the advantages of starting from pole position. For in
 
 
 ### 4 - What factors contribute significantly to a driver becoming a champion?
+![Correlation_Matrix](https://github.com/user-attachments/assets/5252a83e-a604-49f0-b9a3-9e6684835274)
+![Linear](https://github.com/user-attachments/assets/793c15d1-6208-4e34-9d7d-80d2649013f6)
+![Quadratic](https://github.com/user-attachments/assets/696d0f2e-879b-410f-a1ad-74585a237dd5)
+![HeatMapRed](https://github.com/user-attachments/assets/bde51cfe-8026-4f86-ba3a-df6a1ba9775f)
+![HeatMapBlue](https://github.com/user-attachments/assets/dd3b0bf4-28d2-4af8-b63b-1c9a2d12a4fe)
+
 
 ## Conclusion 
 

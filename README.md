@@ -26,7 +26,16 @@ In this study, I explored the following questions:
 My analysis employed various statistical techniques and graphical representations to elucidate patterns and relationships within the data, providing a comprehensive view of Formula 1 driver performance and success factors.
 
 # 1 - How are driver nationalities distributed within this dataset?
+Ths following pie chart illustrates the distribution of driver nationalities in the dataset.
 ![PieChart](https://github.com/user-attachments/assets/c3c9dbb5-7161-4a81-8b05-9a00ad163b58)
+
+The analysis of driver nationalities in Formula 1 reveals a diverse yet unevenly distributed representation across various countries. This distribution provides insights into the global reach and historical development of the sport.
+
+Key Finidings:
+- Leading Nations:
+    The United Kingdom dominates the field, accounting for 20.4% of drivers, closely followed by the United 
+    States at 19.9%. Italy and France also show significant representation at 12.3% and 8.94% respectively.
+
 
 
 # 2 - To what extent does the number of seasons a driver competes correlate with their race win tally?

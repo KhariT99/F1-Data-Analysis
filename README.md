@@ -164,9 +164,9 @@ Strategic Implications:
 
 
 True Positives (TP): 1 - This represents the number of drivers who were correctly predicted to become champions (actually became champions).
-False Negatives (FN): 0 - This represents the number of drivers who were incorrectly predicted not to become champions (actually became champions - missed by the model).
-False Positives (FP): 0 - This represents the number of drivers who were incorrectly predicted to become champions (did not actually become champions).
-True Negatives (TN): 0.71 - This represents the number of drivers who were correctly predicted not to become champions (did not actually become champions).
+<br> False Negatives (FN): 0 - This represents the number of drivers who were incorrectly predicted not to become champions (actually became champions - missed by the model).
+<br> False Positives (FP): 0 - This represents the number of drivers who were incorrectly predicted to become champions (did not actually become champions).
+<br> True Negatives (TN): 0.71 - This represents the number of drivers who were correctly predicted not to become champions (did not actually become champions).
 
 The normalize='true' argument normalizes the confusion matrix by dividing each cell by the total number of test samples (number of drivers in the test set). This provides a percentage representation of how often each prediction category occurred.
 

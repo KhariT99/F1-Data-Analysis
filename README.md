@@ -26,9 +26,16 @@ In this study, I explored the following questions:
 My analysis employed various statistical techniques and graphical representations to elucidate patterns and relationships within the data, providing a comprehensive view of Formula 1 driver performance and success factors.
 
 # 1 - How are driver nationalities distributed within this dataset?
+![PieChart](https://github.com/user-attachments/assets/c3c9dbb5-7161-4a81-8b05-9a00ad163b58)
+
 
 # 2 - To what extent does the number of seasons a driver competes correlate with their race win tally?
 
 # 3 - For drivers who have achieved champion status, what is the relationship between their podium finishes and pole positions?
 
 # 4 - What factors contribute significantly to a driver becoming a champion?
+
+# Conclusion 
+
+# Refrences 
+Kaggle dataset: https://www.kaggle.com/datasets/dubradave/formula-1-drivers-dataset

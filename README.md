@@ -158,8 +158,10 @@ Strategic Implications:
 - Prioritize Qualifying and Race Starts:  Securing good starting positions through strong qualifying performances is critical as it improves the chances of winning races and finishing on the podium.
 
 - Maintain Consistency:  Don't just focus on winning every race.  Finishing consistently in the points and avoiding mistakes is equally important for accumulating points and championship contention.
-
+<p align="center">
 ![HeatMapBlue](https://github.com/user-attachments/assets/dd3b0bf4-28d2-4af8-b63b-1c9a2d12a4fe)
+</p>
+
 True Positives (TP): 1 - This represents the number of drivers who were correctly predicted to become champions (actually became champions).
 False Negatives (FN): 0 - This represents the number of drivers who were incorrectly predicted not to become champions (actually became champions - missed by the model).
 False Positives (FP): 0 - This represents the number of drivers who were incorrectly predicted to become champions (did not actually become champions).

@@ -71,7 +71,7 @@ Correlation Between Number of Seasons and Race Wins:
 The **correlation coefficient** between the number of seasons a driver participates in (Years_Active) and their number of race wins (Race_Wins) is **0.504**. This moderate positive correlation suggests that, generally, drivers who participate in more seasons tend to win more races. However, it's not a perfect correlation, indicating that while there's a trend, other factors also influence race wins.
 
 Model Performance:
-The **Mean Squared Error** of the RandomForestRegressor model is **22.012**. MSE is a measure of the average squared difference between predicted and actual values. A lower MSE indicates better model performance. In this case, the MSE value indicates that the model’s predictions have some deviation from the actual race wins, but the exact degree of error is context-dependent.
+The **Mean Squared Error** of the RandomForestRegressor model is **22.31**. MSE is a measure of the average squared difference between predicted and actual values. A lower MSE indicates better model performance. In this case, the MSE value indicates that the model’s predictions have some deviation from the actual race wins, but the exact degree of error is context-dependent.
 
 Key Competitive Inisights:
 - Moderate Correlation: The moderate correlation coefficient implies that increasing the number of seasons a driver competes in is associated with an increase in race wins, though not perfectly. Teams should consider both the experience gained from additional seasons and other variables that may affect race performance.
@@ -86,6 +86,31 @@ Strategic Implications:
 - Performance Monitoring: Regularly monitoring and updating the model with new data can help teams better understand the evolving relationship between experience and performance, leading to more strategic decisions about driver management and race strategies.
 
 ### 3 - For drivers who have achieved champion status, what is the relationship between their podium finishes and pole positions?
+
+![Linear_Regression](https://github.com/user-attachments/assets/019c65b3-ea14-466a-9f1a-9a11d6816732)
+
+Staistical overview:
+Prediction Score: 68.34%
+Correlation Coefficient: 0.93
+R-squared (R²): 0.86
+
+Key Competiive Insights:
+- Pole position as a Critical Success Factor
+For drivers who have achieved champion status, securing pole position is highly advantageous. The strong correlation (0.93) and high R-squared value (0.86) suggest that drivers starting at the front of the grid are much more likely to finish in the top three. Teams and drivers that consistently secure pole positions are more likely to be successful and win races, given their strong correlation with podium finishes.
+
+- Qualifying Performance is Crucial
+The ability to perform well in qualifying sessions is essential for achieving high race results. Pole positions provide a significant advantage that translates into higher podium finishes. Focusing on improving qualifying performance can lead to better race outcomes, as starting from the front significantly enhances the chances of finishing in the top positions.
+
+Strategic Implications:
+- Investment in Qualifying Speed
+Investing in technologies and innovations that improve qualifying performance, such as advanced aerodynamics, optimized setups, and tire strategies tailored for qualifying. By enhancing their qualifying speed, teams can secure more pole positions, thereby increasing their chances of winning races and improving their overall standings in the championship.
+
+- Focus on Pole Position Strategies
+Develop specific strategies for qualifying sessions that focus on achieving the best possible starting positions. This might include fine-tuning car setups for short, high-pressure runs, and optimizing driver performance in qualifying conditions. Teams that master these strategies will have a better chance of securing pole positions and, therefore, will likely see a higher rate of podium finishes and race wins.
+
+- Race Strategy Alignment
+Align race strategies with the advantages of starting from pole position. For instance, plan for optimal tire management and pit stop strategies that capitalize on the advantage of starting at the front. Effective alignment of race strategies with pole position advantages ensures that teams can maintain their front-row position throughout the race, maximizing their chances of podium finishes.
+
 
 ### 4 - What factors contribute significantly to a driver becoming a champion?
 

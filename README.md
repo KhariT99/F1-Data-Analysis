@@ -66,11 +66,24 @@ Strategic Implications:
 
 - Driver Development Programmes: Implementing programmes in underrepresented countries with strong motorsport cultures can uncover unique talent and build a pipeline of future stars. This long-term investment ensures sustained team performance and helps in developing a loyal fan base.
 
-
-  
-
-
 ### 2 - To what extent does the number of seasons a driver competes correlate with their race win tally?
+Correlation Between Number of Seasons and Race Wins:
+The **correlation coefficient** between the number of seasons a driver participates in (Years_Active) and their number of race wins (Race_Wins) is **0.504**. This moderate positive correlation suggests that, generally, drivers who participate in more seasons tend to win more races. However, it's not a perfect correlation, indicating that while there's a trend, other factors also influence race wins.
+
+Model Performance:
+The **Mean Squared Error** of the RandomForestRegressor model is **22.012**. MSE is a measure of the average squared difference between predicted and actual values. A lower MSE indicates better model performance. In this case, the MSE value indicates that the model’s predictions have some deviation from the actual race wins, but the exact degree of error is context-dependent.
+
+Key Competitive Inisights:
+- Moderate Correlation: The moderate correlation coefficient implies that increasing the number of seasons a driver competes in is associated with an increase in race wins, though not perfectly. Teams should consider both the experience gained from additional seasons and other variables that may affect race performance.
+
+- Model Accuracy: The RandomForestRegressor model's MSE suggests that while the model provides some insight, there is room for improvement in predicting race wins based on the number of seasons. Other factors and more sophisticated modeling techniques might yield better predictions.
+
+Strategic Implications:
+- Talent Development: The positive correlation highlights the value of retaining experienced drivers who have accumulated more seasons. Teams might invest in nurturing their drivers over longer periods to increase their chances of achieving more race wins.
+
+- Data Enrichment: Given the MSE, it’s advisable to incorporate additional features into the model to improve its predictive power. Factors such as driver skill level, team support, and race conditions could enhance prediction accuracy.
+
+- Performance Monitoring: Regularly monitoring and updating the model with new data can help teams better understand the evolving relationship between experience and performance, leading to more strategic decisions about driver management and race strategies.
 
 ### 3 - For drivers who have achieved champion status, what is the relationship between their podium finishes and pole positions?
 
